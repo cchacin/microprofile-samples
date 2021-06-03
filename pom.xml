@@ -41,7 +41,7 @@
 
     <properties>
         <version.javaee>7.0</version.javaee>
-        <version.resteasy>3.0.18.Final</version.resteasy>
+        <version.resteasy>4.5.7.Final</version.resteasy>
         <version.swagger>1.5.9</version.swagger>
         <skipLicenseCheck>false</skipLicenseCheck>
         <!--Swarm-->
